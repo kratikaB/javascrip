@@ -20,6 +20,9 @@ function enter_data() {
 	document.getElementById("fn").value = "";
 	cell2.innerHTML = document.getElementById("email").value;
 	document.getElementById("email").value = "";
+	document.getElementById("password").value = "";
+	document.getElementById("password2").value = "";
+
 
 }
 
