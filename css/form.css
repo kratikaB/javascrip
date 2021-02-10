@@ -15,3 +15,10 @@ p#validate_name{
 p#validate_email{
   color: red;
 }
+p#validate_pwd{
+	color: red;
+}
+p#validate_cpwd{
+	color: red;
+}
+
